@@ -1,0 +1,21 @@
+.mother{
+  border: 1px solid red;
+  display: flex;
+  justify-content: space-between;
+}
+.sub{
+  display: flex;
+}
+.children{
+  background-color: purple;
+  color: white;
+  width: 100px;
+  height: 100px;
+}
+.mr-5 {
+  margin-right: 5px;
+}
+
+
+
+

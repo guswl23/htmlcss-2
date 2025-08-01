@@ -1,0 +1,18 @@
+.mother{
+  border: 1px solid red;
+  display: flex;
+  flex-direction: column;
+}
+.box{
+  background-color: palevioletred;
+  color: white;
+  width: 100px;
+  height: 100px;
+}
+
+.box-mid{
+  align-self: center;
+}
+.box-bottom{
+  align-self: flex-end;
+}
